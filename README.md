@@ -1,0 +1,2 @@
+# BO6-WW-Terminus-Step
+This program is just to help with the wonder weapon step in BO6 Zombies on Terminus.
